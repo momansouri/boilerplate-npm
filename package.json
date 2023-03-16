@@ -1,5 +1,6 @@
 {
-	"name": "mmansouri",
+	"author": "mmansouri",
+	"name": "js-backend",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
